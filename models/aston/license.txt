@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aston Martin One-77
+* source:	https://sketchfab.com/3d-models/aston-martin-one-77-714b4b9f7f93480c94d231a9ea82278d
+* author:	BadKarma™ (https://sketchfab.com/890244234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aston Martin One-77" (https://sketchfab.com/3d-models/aston-martin-one-77-714b4b9f7f93480c94d231a9ea82278d) by BadKarma™ (https://sketchfab.com/890244234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

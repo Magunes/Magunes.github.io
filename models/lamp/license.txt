@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamppost
+* source:	https://sketchfab.com/3d-models/lamppost-65342eeec087448bb69b3a5755bd8e29
+* author:	martn00 (https://sketchfab.com/martn00)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamppost" (https://sketchfab.com/3d-models/lamppost-65342eeec087448bb69b3a5755bd8e29) by martn00 (https://sketchfab.com/martn00) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

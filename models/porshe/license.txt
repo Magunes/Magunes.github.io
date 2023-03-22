@@ -1,0 +1,11 @@
+Model Information:
+* title:	PORSHE
+* source:	https://sketchfab.com/3d-models/porshe-f18f0887860b4fc1939470e134a33281
+* author:	Batman KNIGHTs (https://sketchfab.com/BATMAN13k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PORSHE" (https://sketchfab.com/3d-models/porshe-f18f0887860b4fc1939470e134a33281) by Batman KNIGHTs (https://sketchfab.com/BATMAN13k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

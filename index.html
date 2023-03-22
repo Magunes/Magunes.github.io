@@ -1,1 +1,25 @@
-Hello World 
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset='utf-8'>
+		<title>Threejs App</title>
+		<style>
+			body {
+				background-color: #000;
+				margin: 0px;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+	<body>
+
+		<div id="container"></div>
+		
+		<script type="importmap">
+			{ "imports": { "three": "./lib/three.module.js" } }
+		</script>
+		
+		<script type="module" src="js/Juego_Carreras.js"></script>
+
+	</body>
+</html>
